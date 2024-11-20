@@ -1,0 +1,14 @@
+C:\Users\Kasutaja\source\repos\Week3RemainderOperator\bin\Debug\net8.0\Week3RemainderOperator.exe
+C:\Users\Kasutaja\source\repos\Week3RemainderOperator\bin\Debug\net8.0\Week3RemainderOperator.deps.json
+C:\Users\Kasutaja\source\repos\Week3RemainderOperator\bin\Debug\net8.0\Week3RemainderOperator.runtimeconfig.json
+C:\Users\Kasutaja\source\repos\Week3RemainderOperator\bin\Debug\net8.0\Week3RemainderOperator.dll
+C:\Users\Kasutaja\source\repos\Week3RemainderOperator\bin\Debug\net8.0\Week3RemainderOperator.pdb
+C:\Users\Kasutaja\source\repos\Week3RemainderOperator\obj\Debug\net8.0\Week3RemainderOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasutaja\source\repos\Week3RemainderOperator\obj\Debug\net8.0\Week3RemainderOperator.AssemblyInfoInputs.cache
+C:\Users\Kasutaja\source\repos\Week3RemainderOperator\obj\Debug\net8.0\Week3RemainderOperator.AssemblyInfo.cs
+C:\Users\Kasutaja\source\repos\Week3RemainderOperator\obj\Debug\net8.0\Week3RemainderOperator.csproj.CoreCompileInputs.cache
+C:\Users\Kasutaja\source\repos\Week3RemainderOperator\obj\Debug\net8.0\Week3RemainderOperator.dll
+C:\Users\Kasutaja\source\repos\Week3RemainderOperator\obj\Debug\net8.0\refint\Week3RemainderOperator.dll
+C:\Users\Kasutaja\source\repos\Week3RemainderOperator\obj\Debug\net8.0\Week3RemainderOperator.pdb
+C:\Users\Kasutaja\source\repos\Week3RemainderOperator\obj\Debug\net8.0\Week3RemainderOperator.genruntimeconfig.cache
+C:\Users\Kasutaja\source\repos\Week3RemainderOperator\obj\Debug\net8.0\ref\Week3RemainderOperator.dll
